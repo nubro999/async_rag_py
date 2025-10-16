@@ -1,0 +1,25 @@
+{
+  "categories": {
+    "trading": {
+      "keywords": ["전략", "strategy", "매매", "trading", "추세", "trend", "평균회귀", "모멘텀", "차익거래"],
+      "description": "트레이딩 전략 관련 문서",
+      "files": ["trading/strategies.txt"]
+    },
+    "risk": {
+      "keywords": ["리스크", "risk", "위험", "손절", "stop-loss", "포지션", "position", "관리", "management"],
+      "description": "리스크 관리 관련 문서",
+      "files": ["risk/risk_management.txt"]
+    },
+    "technical": {
+      "keywords": ["지표", "indicator", "RSI", "MACD", "볼린저", "Bollinger", "이동평균", "MA", "기술적"],
+      "description": "기술적 지표 설명 문서",
+      "files": ["technical/indicators.txt"]
+    },
+    "general": {
+      "keywords": ["회사", "company", "개요", "overview", "비전", "vision", "팀", "team", "목표"],
+      "description": "회사 일반 정보 문서",
+      "files": ["general/company_overview.txt"]
+    }
+  },
+  "default_category": "general"
+}

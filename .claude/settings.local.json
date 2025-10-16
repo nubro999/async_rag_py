@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(tree /F /A)"
+      "Bash(tree /F /A)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []
